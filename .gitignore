@@ -27,3 +27,14 @@ Thumbs.db
 ehthumbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
+
+.vscode
+.idea
+IlluminatedCloud
+/temp
+/target
+package-lock.json
+package.json
+/node_modules
+.history/
+/research
